@@ -13,4 +13,4 @@ script:
   - cd edades
   - lettuce tests/
 
-email:false
+email: false
